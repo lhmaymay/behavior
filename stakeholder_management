@@ -1,6 +1,6 @@
 
 I took the lead to manage an offshore team to work on population expansion effort,
- (1) first step to build a database for previous customers, I hosted a series of weekly meetings with multiple teams include engineering, BI, marketing, product, retention, 
+(1) first step to build a database for previous customers, I hosted a series of weekly meetings with multiple teams include engineering, BI, marketing, product, retention, 
  acquisition and account management etc. Before each meeting I send out meeting agenda, After every meeting, I wrote the meeting minute about progress, next step and challenges,
  and identify key stakeholders for each of the issues.  
 (2) I did feature engineering to create some of the key features like identifying their closure reasons, grouping their closure reason into voluntary vs. involuntary. I also got 
